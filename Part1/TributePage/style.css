@@ -1,0 +1,22 @@
+#main {
+	font-family: sans-serif;
+}
+body {
+	background-color: #eee;
+}
+#img {
+	max-width: 100px;
+}
+#title, #img-div {
+	text-align: center;
+}
+#tribute-info {
+	width: 60%;
+	text-align: justify;
+	position: relative;
+	left: 20%;
+}
+.first-letter {
+	font-size: 25px;
+	font-style: bold;
+}
